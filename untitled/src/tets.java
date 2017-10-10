@@ -1,6 +1,6 @@
 public class tets {
     public class main  {
 
-        System.out.p
+        System.out.ptrng.
     }
 }
