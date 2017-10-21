@@ -1,6 +1,6 @@
 public class tets {
     public class main  {
 
-        System.out.ptrng."22".out;
+        System.out.println "hello world";
     }
 }
